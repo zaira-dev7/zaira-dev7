@@ -9,7 +9,7 @@
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=00FFB3&center=true&vCenter=true&width=650&lines=09.02.07+%7C+Московский+колледж+%7C+ЗДИС-302;Django+REST+%2B+PostgreSQL+%2B+React+%2B+Docker;Figma+%7C+Photoshop+%7C+Draw.io+%7C+Графический+планшет;Изучаю+HTML%2FCSS+%E2%86%92+JavaScript+%E2%86%92+Java;%22Не+получается+делать+как+попало%22+©)](https://github.com/zaira-dev7)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=00FFB3&center=true&vCenter=true&width=650&lines=09.02.07+%7C+Московский+колледж+%7C+ЗДИС-302;Django+REST+%2B+PostgreSQL+%2B+React+%2B+Docker;Figma+%7C+Photoshop+%7C+Draw.io+%7C+Графический+планшет;Изучаю+HTML%2FCSS+%E2%86%92+JavaScript+%E2%86%92+Java;%22Качество+—+не+перфекционизм,+а+уважение+к+делу%22)](https://github.com/zaira-dev7)
 
 </div>
 
